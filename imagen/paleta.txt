@@ -1,0 +1,9 @@
+color	R	G	B	hex
+azul	175	197	231	#AFC5E7
+rosa	244	152	129	#F49881
+naranja	252	190	117	#FCBE75
+blanco	246	246	244	#F6F6F4
+marrón	194	166	145	#C2A691
+negro	0	0	0	#000000
+verde	120	199	133	#78C785
+dorado	214	194	135	#D6C287
